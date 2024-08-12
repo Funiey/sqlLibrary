@@ -66,5 +66,6 @@ This README provides information about a sample SQLite database designed for man
         - `AuthorID`: Identifier of the author of the book (Integer, Not Null
 
     -**Author
+   
    Funani Maitakhole
    
